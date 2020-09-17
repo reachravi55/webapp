@@ -9,7 +9,7 @@ mvn3 clean package
 #Deploy instruction
 
 Deploy ```target/WebApp.war``` on Tomcat
- 
+edited 
 #TODO
  
-Add instruction to deploy to ElasticBeanstalk
+instruction to deploy to ElasticBeanstalk
